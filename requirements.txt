@@ -4,4 +4,5 @@ gTTS
 google-generativeai
 SpeechRecognition
 streamlit
+pyaudio-wheels
 # ./path/to/PyAudio-0.2.14-cp312-cp312-linux_x86_64.whl
