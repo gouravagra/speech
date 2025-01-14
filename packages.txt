@@ -1,1 +1,5 @@
 portaudio19-dev python3-all-dev
+libglib2.0-dev
+ffmpeg
+libsm6
+libxext6
